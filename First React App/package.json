@@ -1,0 +1,27 @@
+{
+  "name": "try",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saketkarn/Learning-React.git#main"
+  },
+  "author": "Saket",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saketkarn/Learning-React/issues"
+  },
+  "homepage": "https://github.com/saketkarn/Learning-React/tree/main#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
