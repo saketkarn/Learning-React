@@ -1,0 +1,76 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+}
+
+.logo{
+    width: 200px;
+}
+
+.nav-items > ul{
+    display: flex;
+    padding: 0px 20px;
+    font-size: 24px;
+    list-style-type: none;
+}
+
+.nav-items > ul >li{
+    padding:10px;
+    margin: 10px;
+}
+
+.res-card{
+    margin: 5px;
+    width: 200px;
+    height: auto;
+    padding: 5px;
+}
+
+.res-card:hover{
+    border:1px solid black;
+    cursor: pointer;
+}
+
+.search{
+    padding:10px
+}
+
+.res-logo{
+    width: 100%;
+}
+
+.restaurantContainer{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.filter-btn{
+    margin: 5px;
+    cursor: pointer;
+}
+
+.shimmer-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.shimmer-card{
+    margin: 20px;
+    width: 200px;
+    height: 400px;
+    background-color: #f0f0f0;
+}
+
+.login{
+    padding: 0 20px;
+    cursor: pointer;
+}
+
+.filter{
+    display: flex;
+}
+
+.search-btn{
+    cursor: pointer;
+}
